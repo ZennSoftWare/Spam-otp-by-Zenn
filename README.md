@@ -1,4 +1,4 @@
-## ** 📦  INSTALASI DI TERMUX YGY **
+## **📦  INSTALASI DI TERMUX YGY**
 *_Jalankan perintah ini di termux_*
 
 ```bash
@@ -8,7 +8,7 @@ pip install requests
 git clone https://github.com/username/otp-spammer.git
 cd 
 
-# ** MENJALANKAN NYA **
+# **MENJALANKAN NYA**
 ```bash
 python otp_spammer.py
 # atau langsung dengan nomor
@@ -16,7 +16,7 @@ python otp_spammer.py 62xxx
 
 ---
 
-## ** ATAU LEBIH DETAIL CARA MENJALANKAN DI TERMUX **
+## **ATAU LEBIH DETAIL CARA MENJALANKAN DI TERMUX**
 
 ---
 
@@ -50,22 +50,22 @@ python otp_spammer.py 62xxx
 
 ---
 
-## ** ⚠️ Hal Penting yang Perlu Diperhatikan **
+## **⚠️ Hal Penting yang Perlu Diperhatikan**
 
-** 1. Sumber Proxy Bisa Diblokir: Script mengambil proxy dari proxyscrape.com dan spys.me. Jika koneksi internet di Indonesia memblokir situs tersebut, ambil proxy manual dan isi ke variabel PROXY_LIST. **
+1. Sumber Proxy Bisa Diblokir: Script mengambil proxy dari proxyscrape.com dan spys.me. Jika koneksi internet di Indonesia memblokir situs tersebut, ambil proxy manual dan isi ke variabel PROXY_LIST.
 
-** 2. Izin Penyimpanan: Jika ingin edit script dari aplikasi lain: **
+2. Izin Penyimpanan: Jika ingin edit script dari aplikasi lain:
    ```bash
    termux-setup-storage
    ```
    
-** 3. Koneksi Internet Stabil: Tools ini sangat bergantung pada koneksi internet. Pastikan koneksi stabil, idealnya pakai Wi-Fi. **
+3. Koneksi Internet Stabil: Tools ini sangat bergantung pada koneksi internet. Pastikan koneksi stabil, idealnya pakai Wi-Fi.
 
-** 4. Update Endpoint OTP: Daftar layanan di script hanyalah contoh dan bisa usang. Pantau dan perbarui sendiri secara berkala. **
+4. Update Endpoint OTP: Daftar layanan di script hanyalah contoh dan bisa usang. Pantau dan perbarui sendiri secara berkala. 
 
 ---
 
-## ** 📋 Checklist Sebelum Push ke GitHub **
+## **📋 Checklist Sebelum Push ke GitHub**
 
 · Script berhasil diuji di Termux
 · requirements.txt sudah dibuat
@@ -74,7 +74,7 @@ python otp_spammer.py 62xxx
 
 ---
 
-** CATATAN!! **: Dilarang Mengambil Source Code Tanpa Credit/LICENSE dari pencipta nya!! 
+**CATATAN!!**: Dilarang Mengambil Source Code Tanpa Credit/LICENSE dari pencipta nya!! 
 
 ---
 
