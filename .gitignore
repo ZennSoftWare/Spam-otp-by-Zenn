@@ -1,0 +1,137 @@
+# ============================================
+# PYTHON CACHE & BYTECODE
+# ============================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyzw
+
+# ============================================
+# ENVIRONMENT & VIRTUAL ENVIRONMENT
+# ============================================
+.env
+.venv
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv.bak/
+*.env
+*.env.local
+
+# ============================================
+# LOG & OUTPUT FILE
+# ============================================
+*.log
+*.txt
+*.json
+*.csv
+*.xlsx
+*.db
+*.sqlite
+*.sqlite3
+logs/
+output/
+data/
+cache/
+*.cache
+
+# ============================================
+# SENSITIVE DATA
+# ============================================
+proxies.txt
+proxies.json
+proxy_list.txt
+hasil.txt
+result.txt
+config.json
+config.ini
+credentials.json
+*.key
+*.pem
+*.crt
+*.cer
+*.p12
+
+# ============================================
+# IDE & EDITOR
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+
+# ============================================
+# TERMUX SPECIFIC
+# ============================================
+storage/
+termux-*.txt
+termux-*.log
+.bash_history
+.zsh_history
+
+# ============================================
+# GIT
+# ============================================
+.git/
+.gitignore
+.gitattributes
+
+# ============================================
+# SYSTEM & OS FILES
+# ============================================
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+*.class
+*.jar
+*.war
+*.ear
+
+# ============================================
+# TEMPORARY & CACHE FILES
+# ============================================
+*.tmp
+*.temp
+*.tempfile
+*.cache
+*.cached
+*.lock
+*.pid
+
+# ============================================
+# API KEYS & TOKENS (Jika ada)
+# ============================================
+*.key
+*.token
+*.secret
+*.api
+*.apikey
+*.auth
+*.jwt
+
+# ============================================
+# OTHER
+# ============================================
+*.whl
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.installed.cfg
+.pytest_cache/
+.mypy_cache/
+.tox/
+.coverage
+htmlcov/
