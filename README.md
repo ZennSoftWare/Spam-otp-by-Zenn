@@ -34,7 +34,7 @@ pip install requests
 git clone https://github.com/username/otp-spammer.git
 cd otp-spammer
 
------
+---
 
 ### 3.Beri Izin Eksekusi (Opsional)
 ```bash
@@ -48,7 +48,7 @@ python otp_spammer.py
 # atau langsung dengan nomor
 python otp_spammer.py 62xxx
 
-----
+---
 
 ## **⚠️ Hal Penting yang Perlu Diperhatikan**
 
@@ -57,7 +57,6 @@ python otp_spammer.py 62xxx
 2. Izin Penyimpanan: Jika ingin edit script dari aplikasi lain:
    ```bash
    termux-setup-storage
-   ```
    
 3. Koneksi Internet Stabil: Tools ini sangat bergantung pada koneksi internet. Pastikan koneksi stabil, idealnya pakai Wi-Fi.
 
