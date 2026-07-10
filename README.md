@@ -75,6 +75,6 @@ python otp_spammer.py 62xxx
 
 **CATATAN!!**: Dilarang Mengambil Source Code Tanpa Credit/LICENSE dari pencipta nya!! 
 
----
+----
 
 #_Ide Itu Mahal_
