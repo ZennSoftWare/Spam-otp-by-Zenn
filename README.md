@@ -48,9 +48,7 @@ python otp_spammer.py
 # atau langsung dengan nomor
 python otp_spammer.py 62xxx
 
-
----
-
+--
 
 ##⚠️ Hal Penting yang Perlu Diperhatikan
 
