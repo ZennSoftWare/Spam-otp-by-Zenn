@@ -8,7 +8,7 @@ pip install requests
 git clone https://github.com/username/otp-spammer.git
 cd 
 
-# **MENJALANKAN NYA**
+## **MENJALANKAN NYA**
 ```bash
 python otp_spammer.py
 # atau langsung dengan nomor
@@ -20,7 +20,7 @@ python otp_spammer.py 62xxx
 
 ---
 
-## 📱 Yang Harus Dilakukan di Termux
+## **📱 Yang Harus Dilakukan di Termux**
 
 ### 1. Instalasi Dasar
 ```bash
@@ -50,7 +50,7 @@ python otp_spammer.py 62xxx
 
 ---
 
-##⚠️ Hal Penting yang Perlu Diperhatikan
+## **⚠️ Hal Penting yang Perlu Diperhatikan**
 
 1. Sumber Proxy Bisa Diblokir: Script mengambil proxy dari proxyscrape.com dan spys.me. Jika koneksi internet di Indonesia memblokir situs tersebut, ambil proxy manual dan isi ke variabel PROXY_LIST.
 
@@ -64,7 +64,7 @@ python otp_spammer.py 62xxx
 
 ---
 
-##📋 Checklist Sebelum Push ke GitHub
+## **📋 Checklist Sebelum Push ke GitHub**
 
 · Script berhasil diuji di Termux
 · requirements.txt sudah dibuat
@@ -73,7 +73,7 @@ python otp_spammer.py 62xxx
 
 ---
 
-#CATATAN!!: Dilarang Mengambil Source Code Tanpa Credit/LICENSE dari pencipta nya!! 
+## **CATATAN!!**: Dilarang Mengambil Source Code Tanpa Credit/LICENSE dari pencipta nya!! 
 
 ---
 
